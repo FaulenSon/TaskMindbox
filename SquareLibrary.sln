@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibrary", "SquareLibrary\SquareLibrary.csproj", "{8E8CE8EC-1312-4943-BE79-0266BA951C67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareLibrary.Tests", "SquareLibrary.Tests\SquareLibrary.Tests.csproj", "{DA967AE0-3B6A-4BE4-8091-B1A307EF7B71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E8CE8EC-1312-4943-BE79-0266BA951C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E8CE8EC-1312-4943-BE79-0266BA951C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E8CE8EC-1312-4943-BE79-0266BA951C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E8CE8EC-1312-4943-BE79-0266BA951C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA967AE0-3B6A-4BE4-8091-B1A307EF7B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA967AE0-3B6A-4BE4-8091-B1A307EF7B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA967AE0-3B6A-4BE4-8091-B1A307EF7B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA967AE0-3B6A-4BE4-8091-B1A307EF7B71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A65ABEA-6FE1-4607-9BA7-0934A6C8369D}
+	EndGlobalSection
+EndGlobal
